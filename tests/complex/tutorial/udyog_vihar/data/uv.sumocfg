@@ -1,0 +1,11 @@
+<configuration>
+	<input>
+		<net-file value="uv.net.xml"></net-file>
+		<route-files value="uv.rou.xml"></route-files>
+	</input>	
+	<time>
+		<begin value="0"></begin>
+		<end value="10000"></end>
+	</time>
+	<gui-settings-file value="gui-settings.cfg"></gui-settings-file>
+</configuration>

@@ -1,0 +1,23 @@
+***Starting server on port 41933 ***
+Loading net-file from 'data/uv.net.xml'... done (27ms).
+Loading done.
+Simulation started with time: 0.00
+Warning: Vehicle 'v189' performs emergency stop at the end of lane '4/3to3/3_0' because of a red traffic light (decel=-5.99, offset=0.36), time=62.00.
+Performance: 
+ Duration: 118234ms
+ Real time factor: 2.94332
+ UPS: 146.142396
+Vehicles: 
+ Inserted: 192
+ Running: 0
+ Waiting: 0
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 475.79
+ Duration: 89.99
+ WaitingTime: 27.65
+ TimeLoss: 55.32
+ DepartDelay: 49.29
+
+DijkstraRouter answered 192 queries and explored 41.05 edges on average.
+DijkstraRouter spent 1ms answering queries (0.01ms on average).
